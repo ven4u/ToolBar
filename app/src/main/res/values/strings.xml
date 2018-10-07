@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="standalone_toolbar">Standalone Toolbar</string>
+    <string name="actionbar_toolbar">ActionBar Toolbar</string>
+    <string name="constrain_toolbar">Constrain Toolbar</string>
+</resources>
