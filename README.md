@@ -1,5 +1,6 @@
 # ToolBar
 This app is the demo for Standalone, Actionbar and constrain Toolbar.
+
 1.ToolBar
 Toolbar supports a more focused feature set than ActionBar. From start to end, a toolbar may contain a combination of the following optional elements:
 
