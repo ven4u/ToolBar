@@ -1,5 +1,5 @@
 # ToolBar
-This app is the demo for Standalone, Actionbar and contextualmenu Toolbar.
+This app is the demo for Standalone, Actionbar and ContextualMenu Toolbar.
 
 1.ToolBar
 Toolbar supports a more focused feature set than ActionBar. From start to end, a toolbar may contain a combination of the following optional elements:
@@ -24,4 +24,4 @@ Reduces clutter by providing an action overflow for rarely used actions.
 
 Provides a dedicated space for giving your app an identity.
 
-3.Contextualmenu Toolbar is changing the toolbsr based on the some action in the activity such that it help to navigate to contextualmenu Toolbar
+3.ContextualMenu Toolbar is changing the toolbsr based on the some action in the activity such that it help to navigate to ContextualMenu Toolbar
